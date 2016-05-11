@@ -8,5 +8,5 @@
 echo "Hola";
 echo "XXX";
 if($a=1)
-        echo "bienvenido";
+        echo "bienvenido ELECTIVO 2016";
 

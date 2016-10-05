@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 echo "Hola";
-echo "XXX";
-if($a=1)
+echo "Todos";
+if($a==1)
         echo "bienvenido ELECTIVO 2016";
 
